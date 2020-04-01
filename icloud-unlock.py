@@ -1,4 +1,5 @@
-"""
+#!/bin/bash
+
 iCloud Locked Phone bypass PoC
 you need to get the SSH server on your iDevice running first
 """
